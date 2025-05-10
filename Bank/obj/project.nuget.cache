@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "IBIC0sdMP8A=",
+  "success": true,
+  "projectFilePath": "D:\\Bank\\Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\csquery\\1.3.4\\csquery.1.3.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'CsQuery 1.3.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "libraryId": "CsQuery",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
